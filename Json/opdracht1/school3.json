@@ -1,0 +1,32 @@
+{"Schoolen":{
+  "MediaCollege":{
+    "Students": 20000,
+    "Catergory": "MBO",
+    "Opleidingen":{
+      "MV" : "MediaDeveloper",
+      "GD"  : "GameDeveloper"
+
+    }
+
+  },
+  "HorizonCollege":{
+    "Studenten": 10000,
+    "Catergory":"MBO",
+    "Opleidingen":{
+      "VZ" : "Verzorging",
+      "HM" : " Hospitalitymanagement"
+
+    }
+  },
+  "Dalaran":{
+    "Studenten": 10000,
+    "catergory":"Wizard school",
+    "Opleidingen":{
+      "TM" : "telemancy",
+      "CM" : "Chronomancy"
+    }
+  }
+
+  }
+
+}
